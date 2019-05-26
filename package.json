@@ -1,6 +1,6 @@
 {
   "name": "oral",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "💄👄NPM Oral👄💄 - This library is reserved for voice activated future open-source technology.",
   "main": "index.js",
   "scripts": {
